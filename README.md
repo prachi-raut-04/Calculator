@@ -4,7 +4,7 @@ This is a simple and responsive calculator built using **HTML**, **CSS**, and **
 
 ## 📸 Demo
 
-![Calculator Screenshot](calculator-output.) <!-- Replace with actual screenshot or remove -->
+![Calculator Screenshot](calculator-output.png) <!-- Replace with actual screenshot or remove -->
 
 Try it live 👉 [GitHub Pages Link](https://github.com/prachi-raut-04/Calculator) <!-- Replace with actual link -->
 
